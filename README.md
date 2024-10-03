@@ -45,10 +45,10 @@ The database for the Hospital Management System was implemented using *Microsoft
 ## Database Creation and Table Queries
 
 ### Creating the Database
-sql
+```sql
 --Creating a database
 CREATE DATABASE DM_Course_Work;
-
+```
 
 ### Creating Tables
 
